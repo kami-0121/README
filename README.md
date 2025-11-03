@@ -1,7 +1,7 @@
 <!-- KAMI0121 Cyberpunk README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=06D9F7&center=true&vCenter=true&width=600&lines=⚡+WELCOME+TO+THE+SYSTEM+⚡;I'M+KAMI0121;PYTHON+%7C+NODE.JS+%7C+CLOUDFLARE+%7C+DISCORD+BOT" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=06D9F7&center=true&vCenter=true&width=600&lines=⚡+welcome+to+the+system+⚡;I'm+kami;PYTHON+%7C+NODE.JS+%7C+CLOUDFLARE+%7C+DISCORD+BOT" alt="Typing Animation" />
 </h1>
 
 ---
@@ -44,8 +44,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAMI0121&show_icons=true&theme=radical&title_color=06D9F7&icon_color=06D9F7&bg_color=0A0F1C&text_color=E6E6E6" alt="Kami's Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KAMI0121&theme=radical&hide_border=true&background=0A0F1C&ring=06D9F7&fire=06D9F7&currStreakLabel=06D9F7" alt="Kami's Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kami-0121&show_icons=true&theme=radical&title_color=06D9F7&icon_color=06D9F7&bg_color=0A0F1C&text_color=E6E6E6" alt="Kami's Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kami-0121&theme=radical&hide_border=true&background=0A0F1C&ring=06D9F7&fire=06D9F7&currStreakLabel=06D9F7" alt="Kami's Streak" width="49%"/>
 </div>
 
 ---
@@ -53,8 +53,8 @@
 <h3 align="center">💬 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://discord.gg/"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="https://github.com/KAMI0121"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://discord.com/users/928603023805132841"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+  <a href="https://github.com/kami-0121"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
 ---
