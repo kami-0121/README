@@ -5,9 +5,12 @@
   <a title="简体中文" href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文"></a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=2500&pause=800&color=00FF66&background=0A0F1C00&center=true&vCenter=true&width=600&lines=KAMI-0121@system:~$+login;Access+Granted...;Booting+Modules:+Python;+Node.js,+Cloudflare,+DC+Bot;System+Status:+ONLINE⚡" />
-</h1>
+<div align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=1800&pause=700&color=00E0FF&multiline=true&width=600&height=220&lines=[00:00:01]+kami@system:~$+login;[00:00:02]+Access+granted...;[00:00:03]+Booting+modules...;[00:00:04]+>>>+Initializing+Python;[00:00:05]+>>>+Starting+Node.js;[00:00:06]+>>>+Connecting+to+Cloudflare;[00:00:07]+>>>+Activating+Discord+Bot;[00:00:08]+System+Ready+⚡;[00:00:09]+>>>+Awaiting+commands..." alt="Terminal Boot Animation" />
+
+</div>
+
 
 ---
 
