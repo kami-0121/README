@@ -1,8 +1,8 @@
 <!-- KAMI0121 Cyberpunk README -->
 <div align="right">
   <a title="English" href="README.md"><img src="https://img.shields.io/badge/-English-A31F34?style=for-the-badge" alt="English" /></a>
-  <a title="繁體中文" href="README_zh-tw.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="繁體中文"></a>
-  <a title="简体中文" href="README_zh-cn.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
+  <a title="繁體中文" href="README_zh-tw.md"><img src="https://img.shields.io/badge/-繁體中文-545759?style=for-the-badge" alt="繁體中文"></a>
+  <a title="简体中文" href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文"></a>
 </div>
 
 <h1 align="center">
