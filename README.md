@@ -40,12 +40,12 @@
 
 <div align="center">
 
-<details>
-  <summary>⚠️ 點擊展開</summary>
-  
-  ***:Neko_cat_woah: TECH OTAKUS SAVE THE WORLD***
-  
-</details>
+<span title="Spoiler">||***<div align="center">
+
+![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44) ***TECH OTAKUS SAVE THE WORLD*** ![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)
+
+</div> TECH OTAKUS SAVE THE WORLD***||</span>
+
 
 
 </div>
