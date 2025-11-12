@@ -1,17 +1,16 @@
-<table>
-  <tr>
-    <td>
-      <a href="https://www.buymeacoffee.com/kami_rzm" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="README.md"><img src="https://img.shields.io/badge/-English-A31F34?style=for-the-badge" alt="English" /></a>
-      <a href="README_zh-tw.md"><img src="https://img.shields.io/badge/-繁體中文-7D5FFF?style=for-the-badge" alt="繁體中文" /></a>
-      <a href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文" /></a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.buymeacoffee.com/kami_rzm" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" />
+  </a>
+  <div>
+    <a href="README.md"><img src="https://img.shields.io/badge/-English-A31F34?style=for-the-badge" alt="English" /></a>
+    <a href="README_zh-tw.md"><img src="https://img.shields.io/badge/-繁體中文-7D5FFF?style=for-the-badge" alt="繁體中文" /></a>
+    <a href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文" /></a>
+  </div>
+</div>
+
+
+
 
 <div align="left">
 
