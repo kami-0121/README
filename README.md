@@ -15,14 +15,7 @@
 
 
 
-</div>
-<div align="left">
 
-<div align="center" style="border: 2px solid #FFB6C1; border-radius: 10px; padding: 15px; margin: 20px 0;">
-  <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
-  <h2 style="margin: 10px 0; font-style: italic; color: #FF69B4;">TECH OTAKUS SAVE THE WORLD</h2>
-  <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
-</div>
 
 
 
