@@ -38,6 +38,8 @@
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cyberpunk.gif" width="400" alt="cyberpunk animation"/>
 </p>
 
+:Neko_cat_woah: TECH OTAKUS SAVE THE WORLD
+
 ---
 
 <h3 align="center">⚙️ Technologies I Use</h3>
