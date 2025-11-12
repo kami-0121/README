@@ -1,6 +1,13 @@
-<!-- KAMI0121 Cyberpunk README -->
-| [Buy Me A Coffee](https://www.buymeacoffee.com/kami_rzm) | [![English](https://img.shields.io/badge/-English-A31F34?style=for-the-badge)](README.md) [![繁體中文](https://img.shields.io/badge/-繁體中文-7D5FFF?style=for-the-badge)](README_zh-tw.md) [![简体中文](https://img.shields.io/badge/-简体中文-545759?style=for-the-badge)](README_zh-cn.md) |
-|---|---|
+**贊助我的開發**
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kami_rzm)
+
+**選擇語言 / Choose Language:**
+
+[![English](https://img.shields.io/badge/-English-A31F34?style=for-the-badge)](README.md)
+[![繁體中文](https://img.shields.io/badge/-繁體中文-7D5FFF?style=for-the-badge)](README_zh-tw.md)
+[![简体中文](https://img.shields.io/badge/-简体中文-545759?style=for-the-badge)](README_zh-cn.md)
+
 
 
 </div>
