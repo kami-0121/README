@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44) **TECH OTAKUS SAVE THE WORLD** ![](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)
+![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44) ***TECH OTAKUS SAVE THE WORLD*** ![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)
 
 </div>
 
