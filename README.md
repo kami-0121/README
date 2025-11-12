@@ -39,10 +39,21 @@
 </p>
 
 <div align="center">
-
-![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44) ***TECH OTAKUS SAVE THE WORLD*** ![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
+      </td>
+      <td>
+        <h2 style="margin: 0; font-style: italic;">TECH OTAKUS SAVE THE WORLD</h2>
+      </td>
+      <td>
+        <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ---
