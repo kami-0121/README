@@ -18,4 +18,4 @@
 ---
 ### 📇 Cards 狀態  
 
-![EdgeStore Progress](https://your-worker.dev/schedule?url=https://your-api.dev/projects/badge/123)
+![EdgeStore Progress](https://kami-status-api.sakuna.workers.dev/schedule?url=https://kami-status-api.sakuna.workers.dev/projects/badge/1763922058352)
