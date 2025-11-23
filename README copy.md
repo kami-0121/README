@@ -9,13 +9,10 @@
 
 <!-- Cloudflare / EdgeStore / Discord / Blog 狀態徽章 -->
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://api.kami0121.workers.dev/cf" />
-  <img src="https://img.shields.io/endpoint?url=https://api.kami0121.workers.dev/edgestore" />
-  <img src="https://img.shields.io/endpoint?url=https://api.kami0121.workers.dev/discord" />
-  <img src="https://img.shields.io/endpoint?url=https://api.kami0121.workers.dev/blog" />
+<img src="https://api.lkami.dpdns.org/schedule?url=https://api.lkami.dpdns.org/projects/badge/1763922058352" />
 </p>
 </div>
 ---
 ### 📇 Cards 狀態  
 
-![EdgeStore Progress](https://api.lkami.dpdns.org/schedule?url=https://api.lkami.dpdns.org/projects/badge/1763922058352)
+
